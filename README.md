@@ -4,7 +4,7 @@ Veriler Local Storage üzerine kaydediliyor. Bootstrap Toast bildirimleri kullan
 
 ---
 
-![proje_görseli](img\todolist.PNG)
+![proje_görseli](img/todolist.PNG)
 
 
 
